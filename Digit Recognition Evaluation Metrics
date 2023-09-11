@@ -3,3 +3,9 @@ SVC Model:
     Precision: 0.9861882716049383
     Recall: 0.9861111111111112
     F1-Score: 0.9861071324368055
+    
+MNIST(Logistic Regression Classifier):
+    Accuracy: 0.9746833333333333
+    Precision: 0.9790437164095626
+    Recall: 0.9779
+    F1-Score: 0.9783273436981456
